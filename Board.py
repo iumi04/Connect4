@@ -1,15 +1,6 @@
-#
-# ps9pr1.py (Problem Set 9, Problem 1)
-#
-# A Connect Four Board class
-#
-# Computer Science 111
-#
-
 class Board:
     """ a data type for a Connect Four board with arbitrary dimensions
     """   
-    ### add your constructor here ###
     def __init__(self, height, width):
         self.height = height
         self.width = width
@@ -29,7 +20,6 @@ class Board:
 
             s += '\n'  # newline at the end of the row
 
-        ### add your code here ###
         s += (((col+1) * 2) + 1) * '-'
         s += '\n'
         
@@ -66,7 +56,6 @@ class Board:
                 j = j - 1
 
     
-    ### add your reset method here ###
     def reset(self):
         """ Resets the Board object on which it is called by setting all 
             slots to contain a space character.
@@ -93,7 +82,6 @@ class Board:
             else:
                 checker = 'X'
 
-    ### add your remaining methods here
     def can_add_to(self, col):
         """ Returns True if it is valid to place a checker in the column
             col on the calling Board object. Otherwise, it should return False.
