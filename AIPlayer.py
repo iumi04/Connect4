@@ -1,3 +1,4 @@
+from proj import *
 import random  
 
 class AIPlayer(Player):
