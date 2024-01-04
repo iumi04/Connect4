@@ -1,12 +1,5 @@
-#
-# ps9pr2.py (Problem Set 9, Problem 2)
-#
-# A Connect-Four Player class 
-#  
+from proj import Board
 
-from ps9pr1 import Board
-
-# write your class below.
 class Player():
     def __init__(self, checker):
         """ Constructs a new Player object by initializing two 
@@ -49,5 +42,4 @@ class Player():
                 self.num_moves += 1
                 return column
         return self.num_moves
-        
         
