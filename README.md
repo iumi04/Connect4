@@ -9,7 +9,7 @@ This Connect4 project goes beyond the traditional implementation of the classic 
 
 - **User-Friendly Interface:** The user interface is designed to be intuitive and interactive. Players can enjoy a seamless gaming experience, with the AI player providing a challenging opponent. The board is visually represented, allowing users to easily track their progress.
 
-- **Customizable Difficulty:** The AI's skill level can be adjusted to cater to both casual players and those seeking a more intense gaming experience. You can fine-tune the difficulty level to suit your preferences.
+- **Customizable Difficulty:** The AI's skill level can be adjusted to cater to both casual players and those seeking a more intense gaming experience. You can fine-tune the difficulty level to suit your preferences (e.g. How many moves the AI can look ahead).
 
 - **Educational and Fun:** This project not only provides entertainment but also serves as an educational tool for those interested in AI and game development. It showcases the potential of AI in gaming and how it can be harnessed to create engaging and strategic gameplay.
 
@@ -19,6 +19,6 @@ To get started, simply clone the repository and run the game. You can play again
 
 # Contributions and Feedback
 
-We welcome contributions and feedback from the open-source community. Feel free to contribute to the project by adding new features, improving the AI algorithms, or enhancing the user interface. Your input can help make this Connect4 AI project even more compelling and enjoyable for players.
+I am welcoming contributions and feedback from the open-source community. Feel free to contribute to the project by adding new features, improving the AI algorithms, or enhancing the user interface. Your input can help make this Connect4 AI project even more compelling and enjoyable for players.
 
-Thank you for checking out this Connect4 with AI project! We hope you have a great time playing and exploring the world of AI-powered gaming.
+Thank you for checking out this Connect4 AI project! I hope you have a great time playing and exploring the world of AI-powered gaming.
