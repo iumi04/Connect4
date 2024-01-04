@@ -1,11 +1,5 @@
-#
-# ps9pr3.py  (Problem Set 9, Problem 3)
-#
-# Playing the game 
-#   
-
-from ps9pr1 import Board
-from ps9pr2 import Player
+from proj import Board
+from proj import Player
 import random
 
 def process_move(p, b):
@@ -75,4 +69,3 @@ class RandomPlayer(Player):
                 options += [col]
         return random.choice(options)
                 
-    
