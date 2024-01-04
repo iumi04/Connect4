@@ -1,11 +1,4 @@
-#
-# ps9pr4.py (Problem Set 9, Problem 4)
-#
-# AI Player for use in Connect Four  
-#
-
 import random  
-from ps9pr3 import *
 
 class AIPlayer(Player):
     """ Look ahead some number of moves into the future to assess the impact of
@@ -97,12 +90,3 @@ class AIPlayer(Player):
         best_move = self.max_score_column(self.scores_for(b))
         self.num_moves += 1
         return best_move
-
-        
-                
-                
-            
-            
-            
-                
-            
