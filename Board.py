@@ -9,7 +9,7 @@ class Board:
     def __repr__(self):
         """ Returns a string that represents a Board object.
         """
-        s = ''         #  begin with an empty string
+        s = ''       
 
         # add one row of slots at a time to s
         for row in range(self.height):
@@ -30,11 +30,9 @@ class Board:
             elif num % 10 == 0:
                 s += '0'
             if num > 10:
-                s += str(num % 10)
-                
+                s += str(num % 10)       
         s += '\n'
             
-        
         return s
 
     def add_checker(self, checker, col):
@@ -46,7 +44,6 @@ class Board:
         assert(checker == 'X' or checker == 'O')
         assert(col >= 0 and col < self.width)
         
-        ### put the rest of the method here ###
         j = (self.height - 1)
         while j > -1:
             if self.slots[j][col] == " ":
