@@ -3,7 +3,7 @@ Experience an enhanced version of Connect4 with this Python project, where you c
 
 # Key Features
 
-- **AI (Robot)-Powered Gameplay:** The centerpiece of this project is the AI player, which employs a combination of algorithms and strategies to evaluate potential moves, assess game states, and make decisions that maximize its chances of winning. It doesn't just play randomly; it plays smart.
+- **AI (Robot)-Powered Gameplay:** The centerpiece of this project is the AI player (computer), which employs a combination of algorithms and strategies to evaluate potential moves, assess game states, and make decisions that maximize its chances of winning. It doesn't just play randomly; it plays smart.
 
 - **Future Prediction:** Unlike a simple rule-based AI, this Connect4 computer robot has the capability to simulate potential future game states, exploring different scenarios to determine the most advantageous move. By looking ahead, it can anticipate the user's moves and respond strategically.
 
