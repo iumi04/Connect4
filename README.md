@@ -1,5 +1,5 @@
 # Connect4
-Experience an enhanced version of Connect4 with this Python project, where you can challenge an intelligent AI opponent showcasing advanced gameplay without relying on machine learning. The centerpiece is an AI player employing strategic algorithms to analyze the game state, foresee future moves, and make optimal decisions.
+Connect4Bot is a Python implementation of the classic board game, offering players the opportunity to challenge an AI opponent -- a computer. While the AI employs basic strategies to analyze game states and make intelligent moves, it doesn't incorporate machine learning techniques. Users can enjoy a user-friendly interface, customize the difficulty level, and test their skills against the computer. The project serves as both entertainment and a learning tool for those interested in game development and basic AI concepts.
 
 # Key Features
 
