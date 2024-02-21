@@ -15,10 +15,10 @@ Experience an enhanced version of Connect4 with this Python project, where you c
 
 
 # How to Play
-To get started, simply clone the repository and run the game. You can play against the AI player and test your skills in a battle of wits. Challenge yourself to think ahead, plan your moves, and outsmart the AI to achieve victory.
+To get started, simply clone the repository and run the game. You can play against the AI player and test your skills in a battle of wits. Challenge yourself to think ahead, plan your moves, and outsmart the AI Player to achieve victory.
 
 # Contributions and Feedback
 
-I am welcoming contributions and feedback from the open-source community. Feel free to contribute to the project by adding new features, improving the AI algorithms, or enhancing the user interface. Your input can help make this Connect4 AI project even more compelling and enjoyable for players.
+I am welcoming contributions and feedback from the open-source community. Feel free to contribute to the project by adding new features, improving the robot's algorithms, or enhancing the user interface. Your input can help make this Connect4 robot project even more compelling and enjoyable for players.
 
-Thank you for checking out this Connect4 AI project! I hope you have a great time playing and exploring the world of AI-powered gaming.
+Thank you for checking out this Connect4 robot project! 
