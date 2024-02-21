@@ -1,5 +1,5 @@
 # Connect4
-This Connect4 project goes beyond the traditional implementation of the classic board game. It leverages the power of Artificial Intelligence to create an advanced "AI Player" that can not only analyze the current game state but also look into the future to make optimal moves, ultimately leading to victory. With this implementation, users can enjoy a challenging and engaging gaming experience by competing against a sophisticated AI opponent.
+Experience an enhanced version of Connect4 with this Python project, where you can challenge an intelligent AI opponent showcasing advanced gameplay without relying on machine learning. The centerpiece is an AI player employing strategic algorithms to analyze the game state, foresee future moves, and make optimal decisions.
 
 # Key Features
 
