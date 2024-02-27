@@ -1,5 +1,5 @@
 # Connect4
-Connect4Bot is a Python implementation of the classic board game, offering players the opportunity to challenge an AI opponent -- a computer. While the AI employs basic strategies to analyze game states and make intelligent moves, it doesn't incorporate machine learning techniques. Users can enjoy a user-friendly interface, customize the difficulty level, and test their skills against the computer. The project serves as both entertainment and a learning tool for those interested in game development and basic AI concepts.
+Connect4Bot is a Python implementation of the classic board game, offering players the opportunity to challenge an AI opponent -- a computer. The computer employs basic strategies to analyze game states and make intelligent moves. Users can enjoy a user-friendly interface, customize the difficulty level, and test their skills against the computer. The project serves as both entertainment and a learning tool for those interested in game development and basic AI concepts.
 
 # Key Features
 
@@ -9,7 +9,7 @@ Connect4Bot is a Python implementation of the classic board game, offering playe
 
 - **User-Friendly Interface:** The user interface is designed to be intuitive and interactive. Players can enjoy a seamless gaming experience, with the computer robot player providing a challenging opponent. The board is visually represented, allowing users to easily track their progress.
 
-- **Customizable Difficulty:** The computer robot's skill level can be adjusted to cater to both casual players and those seeking a more intense gaming experience. You can fine-tune the difficulty level to suit your preferences (e.g. How many moves the AI can look ahead).
+- **Customizable Difficulty:** The computer robot's skill level can be adjusted to cater to both casual players and those seeking a more intense gaming experience. You can fine-tune the difficulty level to suit your preferences (e.g. How many moves the AI bot can look ahead).
 
 - **Educational and Fun:** This project not only provides entertainment but also serves as an educational tool for those interested in game development. It showcases the potential of playing against computers in gaming and how it can be harnessed to create engaging and strategic gameplay.
 
